@@ -1,0 +1,4 @@
+[submodule "plugins/kustomize"]
+	path = plugins/kustomize
+	url = https://github.com/Banno/asdf-kustomize.git
+	branch = master
