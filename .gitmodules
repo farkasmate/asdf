@@ -2,3 +2,7 @@
 	path = plugins/kustomize
 	url = https://github.com/Banno/asdf-kustomize.git
 	branch = master
+[submodule "plugins/crystal"]
+	path = plugins/crystal
+	url = https://github.com/farkasmate/asdf-crystal.git
+	branch = arm64
