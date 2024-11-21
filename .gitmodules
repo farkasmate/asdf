@@ -1,8 +1,12 @@
-[submodule "plugins/kustomize"]
-	path = plugins/kustomize
-	url = https://github.com/Banno/asdf-kustomize.git
-	branch = master
 [submodule "plugins/crystal"]
 	path = plugins/crystal
 	url = https://github.com/farkasmate/asdf-crystal.git
 	branch = arm64
+[submodule "plugins/kustomize"]
+	path = plugins/kustomize
+	url = https://github.com/Banno/asdf-kustomize.git
+	branch = master
+[submodule "plugins/python"]
+	path = plugins/python
+	url = https://github.com/asdf-community/asdf-python.git
+	branch = master
