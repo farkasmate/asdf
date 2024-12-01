@@ -2,6 +2,10 @@
 	path = plugins/crystal
 	url = https://github.com/farkasmate/asdf-crystal.git
 	branch = arm64
+[submodule "plugins/kubectl"]
+	path = plugins/kubectl
+	url = https://github.com/asdf-community/asdf-kubectl.git
+	branch = master
 [submodule "plugins/kustomize"]
 	path = plugins/kustomize
 	url = https://github.com/Banno/asdf-kustomize.git
