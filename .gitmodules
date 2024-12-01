@@ -22,3 +22,7 @@
 	path = plugins/python
 	url = https://github.com/asdf-community/asdf-python.git
 	branch = master
+[submodule "plugins/yamlfmt"]
+	path = plugins/yamlfmt
+	url = https://github.com/kachick/asdf-yamlfmt.git
+	branch = main
