@@ -6,6 +6,10 @@
 	path = plugins/kustomize
 	url = https://github.com/Banno/asdf-kustomize.git
 	branch = master
+[submodule "plugins/mdbook"]
+	path = plugins/mdbook
+	url = https://github.com/farkasmate/asdf-mdbook.git
+	branch = main
 [submodule "plugins/python"]
 	path = plugins/python
 	url = https://github.com/asdf-community/asdf-python.git
