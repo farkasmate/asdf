@@ -26,3 +26,7 @@
 	path = plugins/yamlfmt
 	url = https://github.com/kachick/asdf-yamlfmt.git
 	branch = main
+[submodule "plugins/jq"]
+	path = plugins/jq
+	url = https://github.com/lsanwick/asdf-jq.git
+	branch = master
