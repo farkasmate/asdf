@@ -1,3 +1,7 @@
+[submodule "plugins/aws-vault"]
+	path = plugins/aws-vault
+	url = https://github.com/karancode/asdf-aws-vault.git
+	branch = main
 [submodule "plugins/crystal"]
 	path = plugins/crystal
 	url = https://github.com/farkasmate/asdf-crystal.git
