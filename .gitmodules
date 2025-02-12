@@ -2,6 +2,10 @@
 	path = plugins/aws-vault
 	url = https://github.com/karancode/asdf-aws-vault.git
 	branch = main
+[submodule "plugins/circleci-cli"]
+	path = plugins/circleci-cli
+	url = git@github.com:ucpr/asdf-circleci-cli.git
+	branch = main
 [submodule "plugins/crystal"]
 	path = plugins/crystal
 	url = https://github.com/farkasmate/asdf-crystal.git
