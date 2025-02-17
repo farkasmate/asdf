@@ -42,3 +42,7 @@
 	path = plugins/jq
 	url = https://github.com/lsanwick/asdf-jq.git
 	branch = master
+[submodule "plugins/yq"]
+	path = plugins/yq
+	url = https://github.com/sudermanjr/asdf-yq.git
+	branch = master
