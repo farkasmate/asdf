@@ -14,6 +14,10 @@
 	path = plugins/gcloud
 	url = git@github.com:jthegedus/asdf-gcloud.git
 	branch = main
+[submodule "plugins/helm"]
+	path = plugins/helm
+	url = https://github.com/Antiarchitect/asdf-helm.git
+	branch = master
 [submodule "plugins/kind"]
 	path = plugins/kind
 	url = https://github.com/johnlayton/asdf-kind.git
