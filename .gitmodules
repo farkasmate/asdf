@@ -38,6 +38,10 @@
 	path = plugins/python
 	url = https://github.com/asdf-community/asdf-python.git
 	branch = master
+[submodule "plugins/sops"]
+	path = plugins/sops
+	url = https://github.com/feniix/asdf-sops.git
+	branch = master
 [submodule "plugins/yamlfmt"]
 	path = plugins/yamlfmt
 	url = https://github.com/kachick/asdf-yamlfmt.git
