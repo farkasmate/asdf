@@ -10,6 +10,10 @@
 	path = plugins/crystal
 	url = https://github.com/farkasmate/asdf-crystal.git
 	branch = arm64
+[submodule "plugins/eksctl"]
+	path = plugins/eksctl
+	url = https://github.com/elementalvoid/asdf-eksctl.git
+	branch = master
 [submodule "plugins/gcloud"]
 	path = plugins/gcloud
 	url = git@github.com:jthegedus/asdf-gcloud.git
