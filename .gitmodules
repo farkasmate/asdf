@@ -50,6 +50,10 @@
 	path = plugins/terraform
 	url = https://github.com/asdf-community/asdf-hashicorp.git
 	branch = master
+[submodule "plugins/terragrunt"]
+	path = plugins/terragrunt
+	url = https://github.com/ohmer/asdf-terragrunt.git
+	branch = main
 [submodule "plugins/yamlfmt"]
 	path = plugins/yamlfmt
 	url = https://github.com/kachick/asdf-yamlfmt.git
