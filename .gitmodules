@@ -54,6 +54,10 @@
 	path = plugins/terragrunt
 	url = https://github.com/ohmer/asdf-terragrunt.git
 	branch = main
+[submodule "plugins/tflint"]
+	path = plugins/tflint
+	url = https://github.com/skyzyx/asdf-tflint.git
+	branch = master
 [submodule "plugins/yamlfmt"]
 	path = plugins/yamlfmt
 	url = https://github.com/kachick/asdf-yamlfmt.git
