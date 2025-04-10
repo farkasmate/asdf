@@ -58,6 +58,10 @@
 	path = plugins/tflint
 	url = https://github.com/skyzyx/asdf-tflint.git
 	branch = master
+[submodule "plugins/trivy"]
+	path = plugins/trivy
+	url = https://github.com/zufardhiyaulhaq/asdf-trivy.git
+	branch = master
 [submodule "plugins/yamlfmt"]
 	path = plugins/yamlfmt
 	url = https://github.com/kachick/asdf-yamlfmt.git
