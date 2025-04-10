@@ -50,6 +50,10 @@
 	path = plugins/terraform
 	url = https://github.com/asdf-community/asdf-hashicorp.git
 	branch = master
+[submodule "plugins/terraform-docs"]
+	path = plugins/terraform-docs
+	url = https://github.com/looztra/asdf-terraform-docs.git
+	branch = master
 [submodule "plugins/terragrunt"]
 	path = plugins/terragrunt
 	url = https://github.com/ohmer/asdf-terragrunt.git
